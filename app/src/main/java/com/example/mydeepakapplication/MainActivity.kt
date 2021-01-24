@@ -10,5 +10,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         // hello I have changed here
+        //done some changes using command line
     }
 }

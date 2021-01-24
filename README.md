@@ -1,4 +1,4 @@
 # Deeps
 
 
-some git commands functionlity added 
+some git commands   added
